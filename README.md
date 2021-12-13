@@ -7,4 +7,4 @@ All of the specifications for the different formats, protocols, tools associated
 
 Whether that is by appointing a line of command, or by holding votes or elections, is still to be determined and discussed.
 
-The name of this project ("mate") was chosen for a private reason. The name was not chosen because it is an anagram of a word spelled "M", "E", "T", "A".
+The name of this project ("mate") was chosen for a private reason. The name was not chosen because it is an anagram of a word spelled "M",   "E",    "T",  "A".
