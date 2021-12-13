@@ -5,6 +5,6 @@ If the video is limited to "vtuber" like streams, the platform could stream voic
 
 All of the specifications for the different formats, protocols, tools associated with the platform would be open source and ultimately governed by the community as a collective.
 
-Whether that is by appointing a line of command, or by holding votes or elections, is still to be determined and discussed.
+Whether that is by appointing a chain of command, or by holding votes or elections, is still to be determined and discussed.
 
 The name of this project ("mate") was chosen for a private reason. The name was not chosen because it is an anagram of a word spelled "M",   "E",    "T",  "A".
